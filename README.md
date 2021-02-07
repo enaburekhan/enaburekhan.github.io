@@ -2,8 +2,7 @@
 This is my portfolio which show case my software development skills set and the jobs I have done so far.
 Still work in progress...
 
-![My Portfolio](![screen-shot](https://user-images.githubusercontent.com/51296741/107156301-df1d4d00-697d-11eb-8823-031a79bb2f62.png)
-)
+![My Portfolio](https://user-images.githubusercontent.com/51296741/107156301-df1d4d00-697d-11eb-8823-031a79bb2f62.png)
 
 
 ## Built With
