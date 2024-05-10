@@ -18,7 +18,7 @@ Still work in progress...
 ## Live Demo
 
 
-[Live Demo Link](http://ericenaburekhan.me/)
+[Live Demo Link](https://enaburekhan.github.io/)
 
 
 ## Getting Started
